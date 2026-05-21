@@ -270,14 +270,14 @@ A heavier 100-step training-loss-decreases check is gated behind `RUN_HEAVY=1`.
 ## Citation
 
 ```bibtex
-@misc{koromilas2026neuralcollapsedesignlearning,
-      title={Neural Collapse by Design: Learning Class Prototypes on the Hypersphere}, 
-      author={Panagiotis Koromilas and Theodoros Giannakopoulos and Mihalis A. Nicolaou and Yannis Panagakis},
+@misc{koromilas2026polysaemodelingfeatureinteractions,
+      title={PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding}, 
+      author={Panagiotis Koromilas and Andreas D. Demou and James Oldfield and Yannis Panagakis and Mihalis Nicolaou},
       year={2026},
-      eprint={2605.20302},
+      eprint={2602.01322},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2605.20302}, 
+      url={https://arxiv.org/abs/2602.01322}, 
 }
 ```
 
